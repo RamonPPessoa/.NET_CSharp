@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net7.0\LearnMyCalculatorApp.exe
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net7.0\LearnMyCalculatorApp.deps.json
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net7.0\LearnMyCalculatorApp.runtimeconfig.json
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net7.0\LearnMyCalculatorApp.dll
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net7.0\LearnMyCalculatorApp.pdb
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.AssemblyInfo.cs
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.dll
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\refint\LearnMyCalculatorApp.dll
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.pdb
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\LearnMyCalculatorApp.genruntimeconfig.cache
+C:\Users\ramon\Documents\.NET_C#\Testes\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net7.0\ref\LearnMyCalculatorApp.dll
