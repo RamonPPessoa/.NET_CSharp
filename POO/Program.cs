@@ -19,3 +19,10 @@ System.Console.WriteLine($"{carro1.Nome} {carro1.Marca} potencia: {carro1.Potenc
 
 var carro2 = new Carro("Corsa","Chevrolet",1.0);
 System.Console.WriteLine($"{carro2.Nome} {carro2.Marca} potencia: {carro2.Potencia.ToString("F1")}");
+
+System.Console.WriteLine("============== METODOS ESTÁTICOS ================");
+
+var result = MetodosEstaticos.somar(4,5);
+System.Console.WriteLine(" A soma é: {0}", result);
+MetodosEstaticos calc = new MetodosEstaticos();
+System.Console.WriteLine(calc.multiplicar(2,5));
