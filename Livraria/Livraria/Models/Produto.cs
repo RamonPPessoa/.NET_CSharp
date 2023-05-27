@@ -1,4 +1,4 @@
-﻿namespace Livraria.Model
+﻿namespace Livraria.Models
 {
     public class Produto
     {
