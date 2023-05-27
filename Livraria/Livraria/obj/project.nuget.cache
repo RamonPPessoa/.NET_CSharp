@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EnEjB5syyIJ//CHs98EegU660uDJTSWEelOSo6LSwJPRCznSUDnXG9hIveAcEv26qu4UD2MnGycORQekWXXqOQ==",
+  "dgSpecHash": "LsqPBMMgJpS6TGS/pnRAmgO3rgOjPKtnErWkDge6vQDEv9gPKkVR0B5JtXr5grFVf/FGgFtpt0tUFwcdvOHQKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ramon\\Documents\\.NET_C#\\Livraria\\Livraria\\Livraria.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.0\\microsoft.entityframeworkcore.inmemory.5.0.0.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
