@@ -26,3 +26,19 @@ var result = MetodosEstaticos.somar(4,5);
 System.Console.WriteLine(" A soma é: {0}", result);
 MetodosEstaticos calc = new MetodosEstaticos();
 System.Console.WriteLine(calc.multiplicar(2,5));
+
+
+
+System.Console.WriteLine("============== Parametros Variaveis ===================");
+
+ static void Despedida(params string [] alunos)
+{
+    foreach (var aluno in alunos)
+    {
+        Console.WriteLine("Tchau {0} ate a proxima aula",aluno);
+    }
+
+
+   
+}
+Despedida("Jhon","Steve","Jane");
