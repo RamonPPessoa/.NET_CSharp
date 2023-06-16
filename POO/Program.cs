@@ -2,6 +2,7 @@
 using POO;
 
 
+
 Aluno aluno1 = new Aluno(); 
 aluno1.Nome = "João"; 
 aluno1.Idade = 13; 
@@ -42,3 +43,12 @@ System.Console.WriteLine("============== Parametros Variaveis ==================
    
 }
 Despedida("Jhon","Steve","Jane");
+
+
+        System.Console.WriteLine("============ENUM================");
+
+
+       int cod = Convert.ToInt32(Video.Genero.Documentario);
+       /* ou int cod = (int)Video.Genero.Documentario;*/
+            System.Console.WriteLine(cod);
+        
