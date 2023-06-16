@@ -3,6 +3,8 @@ using POO;
 
 
 
+
+
 Aluno aluno1 = new Aluno(); 
 aluno1.Nome = "João"; 
 aluno1.Idade = 13; 
@@ -45,10 +47,24 @@ System.Console.WriteLine("============== Parametros Variaveis ==================
 Despedida("Jhon","Steve","Jane");
 
 
-        System.Console.WriteLine("============ENUM================");
+System.Console.WriteLine("============ENUM================");
 
 
-       int cod = Convert.ToInt32(Video.Genero.Documentario);
+int cod = Convert.ToInt32(Video.Genero.Documentario);
        /* ou int cod = (int)Video.Genero.Documentario;*/
-            System.Console.WriteLine(cod);
+System.Console.WriteLine(cod);
+
+System.Console.WriteLine("============Struct e Classe================");
         
+StructClass.PontoS ponto = new StructClass.PontoS{X= 5,Y = 3};
+StructClass.PontoS ponto2 = ponto;// Copiar atraves do valor
+ponto.X = 3;
+
+System.Console.WriteLine("Ponto:{0}",ponto.X);
+System.Console.WriteLine("Ponto 2:{0}",ponto2.X);
+
+StructClass.PontoC ponto3 = new StructClass.PontoC{X=6,Y=9};
+StructClass.PontoC ponto4 = ponto3;
+ponto3.X =3;
+
+System.Console.WriteLine("Ponto 3 ={0},Ponto 4 -{1}",ponto3.X,ponto4.X);
