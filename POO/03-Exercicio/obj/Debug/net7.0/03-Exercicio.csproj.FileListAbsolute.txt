@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.AssemblyInfo.cs
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\bin\Debug\net7.0\03-Exercicio.exe
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\bin\Debug\net7.0\03-Exercicio.deps.json
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\bin\Debug\net7.0\03-Exercicio.runtimeconfig.json
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\bin\Debug\net7.0\03-Exercicio.dll
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\bin\Debug\net7.0\03-Exercicio.pdb
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.dll
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\refint\03-Exercicio.dll
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.pdb
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\03-Exercicio.genruntimeconfig.cache
+C:\Users\ramon\Documents\.NET_C#\POO\03-Exercicio\obj\Debug\net7.0\ref\03-Exercicio.dll
