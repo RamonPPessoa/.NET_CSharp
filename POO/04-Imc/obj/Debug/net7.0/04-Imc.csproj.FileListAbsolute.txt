@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\bin\Debug\net7.0\04-Imc.exe
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\bin\Debug\net7.0\04-Imc.deps.json
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\bin\Debug\net7.0\04-Imc.runtimeconfig.json
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\bin\Debug\net7.0\04-Imc.dll
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\bin\Debug\net7.0\04-Imc.pdb
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.AssemblyInfo.cs
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.dll
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\refint\04-Imc.dll
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.pdb
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\04-Imc.genruntimeconfig.cache
+C:\Users\ramon\Documents\.NET_C#\POO\04-Imc\obj\Debug\net7.0\ref\04-Imc.dll
