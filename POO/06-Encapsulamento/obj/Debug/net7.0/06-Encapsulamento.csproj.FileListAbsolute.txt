@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.AssemblyInfo.cs
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\bin\Debug\net7.0\06-Encapsulamento.exe
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\bin\Debug\net7.0\06-Encapsulamento.deps.json
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\bin\Debug\net7.0\06-Encapsulamento.runtimeconfig.json
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\bin\Debug\net7.0\06-Encapsulamento.dll
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\bin\Debug\net7.0\06-Encapsulamento.pdb
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.dll
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\refint\06-Encapsulamento.dll
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.pdb
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\06-Encapsulamento.genruntimeconfig.cache
+C:\Users\ramon\Documents\.NET_C#\POO\06-Encapsulamento\obj\Debug\net7.0\ref\06-Encapsulamento.dll
