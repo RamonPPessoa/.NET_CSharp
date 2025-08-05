@@ -1,0 +1,15 @@
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\bin\Debug\net9.0\EstudandoCSharp.exe
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\bin\Debug\net9.0\EstudandoCSharp.deps.json
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\bin\Debug\net9.0\EstudandoCSharp.runtimeconfig.json
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\bin\Debug\net9.0\EstudandoCSharp.dll
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\bin\Debug\net9.0\EstudandoCSharp.pdb
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.AssemblyInfo.cs
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.sourcelink.json
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.dll
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\refint\EstudandoCSharp.dll
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.pdb
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\EstudandoCSharp.genruntimeconfig.cache
+C:\Users\ramon\Documents\Cursos_TI\.NET_CSharp\Dados_Listas\EstudandoCSharp\obj\Debug\net9.0\ref\EstudandoCSharp.dll
