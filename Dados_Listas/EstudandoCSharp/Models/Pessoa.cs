@@ -10,10 +10,8 @@ namespace EstudandoCSharp.Models
         private string _nome;
         public string Nome
         {
-            get
-            {
-                return _nome.ToUpper();
-             }
+            get => _nome.ToUpper(); // body expressions
+             
 
             set
             {
