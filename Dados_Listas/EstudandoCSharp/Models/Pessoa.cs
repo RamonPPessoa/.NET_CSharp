@@ -24,6 +24,9 @@ namespace EstudandoCSharp.Models
             }
 
         }
+        public string Sobrenome { get; set; }
+
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
         public int Idade
         {
             get => _idade;
@@ -36,12 +39,12 @@ namespace EstudandoCSharp.Models
                 }
                 _idade = value;
             }
-            
+
         }
 
         public void Apresentar()
         {
-            System.Console.WriteLine( $"Nome:{Nome} de idade:{Idade}");
+            System.Console.WriteLine( $"Nome:{NomeCompleto} de idade:{Idade}");
         }
     }
 }
