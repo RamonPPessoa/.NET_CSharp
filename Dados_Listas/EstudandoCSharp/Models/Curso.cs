@@ -21,5 +21,18 @@ namespace EstudandoCSharp.Models
             int quantidade = Alunos.Count;
             return quantidade;
         }
+
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            return Alunos.Remove(aluno);
+        }
+
+        public void ListarAluno()
+        {
+            foreach (Pessoa aluno in Alunos)
+            {
+                System.Console.WriteLine(aluno.NomeCompleto);
+            }
+        }
     }
 }
