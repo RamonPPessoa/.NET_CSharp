@@ -1,18 +1,23 @@
 ﻿using EstudandoCSharp.Models;
 
-Pessoa pessoa1 = new Pessoa("Joana", "Teixeira");
 
 
-Pessoa pessoa2 = new Pessoa("Paula","Santos");
+decimal valorMoneatrio = 1582.40M;
+System.Console.WriteLine($"{valorMoneatrio:C}");
+
+// Pessoa pessoa1 = new Pessoa("Joana", "Teixeira");
 
 
-Curso cursoDeIngles = new Curso();
+// Pessoa pessoa2 = new Pessoa("Paula","Santos");
 
-cursoDeIngles.Nome = "Inglês";
-cursoDeIngles.Alunos = new List<Pessoa>();
-cursoDeIngles.AdicionarAluno(pessoa1);
-cursoDeIngles.AdicionarAluno(pessoa2);
-cursoDeIngles.ListarAluno();
+
+// Curso cursoDeIngles = new Curso();
+
+// cursoDeIngles.Nome = "Inglês";
+// cursoDeIngles.Alunos = new List<Pessoa>();
+// cursoDeIngles.AdicionarAluno(pessoa1);
+// cursoDeIngles.AdicionarAluno(pessoa2);
+// cursoDeIngles.ListarAluno();
 
 
 
