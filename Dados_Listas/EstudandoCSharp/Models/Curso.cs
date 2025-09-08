@@ -29,9 +29,11 @@ namespace EstudandoCSharp.Models
 
         public void ListarAluno()
         {
-            foreach (Pessoa aluno in Alunos)
+            for (int count  = 0; count < Alunos.Count; count++)
             {
-                System.Console.WriteLine(aluno.NomeCompleto);
+
+                string texto = " Nº " + count + " - " + Alunos[count].NomeCompleto;
+                System.Console.WriteLine(texto);
             }
         }
     }
