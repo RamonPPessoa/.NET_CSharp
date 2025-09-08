@@ -4,7 +4,7 @@ CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
 
 decimal valorMoneatrio = 1582.40M;
-System.Console.WriteLine($"{valorMoneatrio:C}");
+System.Console.WriteLine(valorMoneatrio.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
 
 // Pessoa pessoa1 = new Pessoa("Joana", "Teixeira");
 
