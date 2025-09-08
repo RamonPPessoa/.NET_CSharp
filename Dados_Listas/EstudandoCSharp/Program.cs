@@ -1,5 +1,6 @@
-﻿using EstudandoCSharp.Models;
-
+﻿using System.Globalization;
+using EstudandoCSharp.Models;
+CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
 
 decimal valorMoneatrio = 1582.40M;
