@@ -4,7 +4,15 @@ CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("pt-BR");
 
 
 decimal valorMoneatrio = 1582.40M;
-System.Console.WriteLine(valorMoneatrio.ToString("C", CultureInfo.CreateSpecificCulture("en-US")));
+System.Console.WriteLine(valorMoneatrio.ToString("N2"));
+
+
+double procentagem =  .3422;
+System.Console.WriteLine(  procentagem.ToString("P"));
+
+int numero = 123456;
+System.Console.WriteLine(numero.ToString("## - ## - ##"));
+
 
 // Pessoa pessoa1 = new Pessoa("Joana", "Teixeira");
 
