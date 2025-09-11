@@ -2,11 +2,21 @@
 using EstudandoCSharp.Models;
 
 
-DateTime data = DateTime.Now;
+string dataString = "2025-14-20  20:00";
+
+DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm",
+                        CultureInfo.InvariantCulture,
+                         DateTimeStyles.None, out DateTime data);
+
+System.Console.WriteLine(data);
+
+
+
+/*DateTime data = DateTime.Now;
 
 System.Console.WriteLine(data.ToString("dd/MM/yyyy"));
 
-
+*/
 
 
 
