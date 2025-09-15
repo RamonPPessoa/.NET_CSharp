@@ -2,13 +2,43 @@
 using EstudandoCSharp.Models;
 
 
-string dataString = "2025-14-20  20:00";
+try
+{
+    string[]linhas = File.ReadAllLines("Arquivos/LeituraArquivos.txt");
 
-DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm",
-                        CultureInfo.InvariantCulture,
-                         DateTimeStyles.None, out DateTime data);
+foreach (string linha in linhas)
+{
+    System.Console.WriteLine(linha);
+}
 
-System.Console.WriteLine(data);
+}
+catch (Exception ex)
+{
+    
+    System.Console.WriteLine($"Ocorreu uma exceção genérica.{ex.Message}");
+}
+
+
+
+
+
+// string dataString = "2025-14-20  20:00";
+
+// bool sucesso = DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm",
+//                         CultureInfo.InvariantCulture,
+//                          DateTimeStyles.None, out DateTime data);
+
+// if (sucesso)
+// {
+//     System.Console.WriteLine($"Conversão com sucesso Data: {data}");
+// }
+
+// else
+// {
+//     System.Console.WriteLine($"{dataString} não é uma data válida");
+// }
+
+
 
 
 
