@@ -2,23 +2,32 @@
 using EstudandoCSharp.Models;
 
 
+using System.Globalization;
+using EstudandoCSharp.Models;
+using System.IO;
+
 try
 {
-    string[]linhas = File.ReadAllLines("Arquivos/LeituraArquivos.txt");
+    string[] linhas = File.ReadAllLines("Arquivos/LeituraArquivos.txt");
 
-foreach (string linha in linhas)
-{
-    System.Console.WriteLine(linha);
+    foreach (string linha in linhas)
+    {
+        Console.WriteLine(linha);
+    }
 }
-
+catch (FileNotFoundException ex)
+{
+    Console.WriteLine($"Arquivo não encontrado. {ex.Message}");
+}
+catch (DirectoryNotFoundException ex)
+{
+    Console.WriteLine($"Diretório não encontrado. {ex.Message}");
 }
 catch (Exception ex)
 {
-    
-    System.Console.WriteLine($"Ocorreu uma exceção genérica.{ex.Message}");
+    Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
 }
-
-
+System.Console.WriteLine("Chegou aqui !!");
 
 
 
