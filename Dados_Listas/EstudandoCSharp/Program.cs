@@ -9,23 +9,53 @@ using System.IO;
 
 
 
-Queue<int> fila = new Queue<int>();
 
-        fila.Enqueue(1);
-        fila.Enqueue(2);
-        fila.Enqueue(3);
+Stack<int> pila = new Stack<int>();
 
-        foreach (int item in fila)
-        {
+        pila.Push(1);
+        pila.Push(2);
+        pila.Push(3);
+        pila.Push(4);
+        pila.Push(5);
+
+        foreach (int item in pila) {
             Console.WriteLine(item);
         }
 
-        Console.WriteLine($"Removendo o elemento:   {fila.Dequeue()}");
+        Console.WriteLine("Removiendo el elemento en el tope: {0}", pila.Pop());
 
-        foreach (int item in fila)
-        {
+        foreach (int item in pila) {
             Console.WriteLine(item);
         }
+
+
+
+
+
+
+
+
+
+
+
+
+// Queue<int> fila = new Queue<int>();
+
+//         fila.Enqueue(1);
+//         fila.Enqueue(2);
+//         fila.Enqueue(3);
+
+//         foreach (int item in fila)
+//         {
+//             Console.WriteLine(item);
+//         }
+
+//         Console.WriteLine($"Removendo o elemento:   {fila.Dequeue()}");
+
+//         foreach (int item in fila)
+//         {
+//             Console.WriteLine(item);
+//         }
 
 
 
