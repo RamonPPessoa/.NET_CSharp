@@ -2,15 +2,45 @@
 using EstudandoCSharp.Models;
 
 
-using System.Globalization;
-using EstudandoCSharp.Models;
-using System.IO;
+
+            Dictionary<string, string> estados = new Dictionary<string, string>();
+            estados.Add("SP", "São Paulo");
+            estados.Add("MG", "Minas Gerais");
+            estados.Add("BA", "Bahia");
+
+            foreach (var item in estados)
+            {
+                Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+            }
+        System.Console.WriteLine("************* Removendo **************");
+            estados.Remove("BA");
+            estados["MG"] = "Minas Gerais - Teste alterando valor";
+
+               foreach (var item in estados)
+            {
+                Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+            }
+    string chave = "BA";
+    System.Console.WriteLine($"Verificando o elemento  {chave}");
+
+    if (estados.ContainsKey(chave))
+    {
+        System.Console.WriteLine($"Valor existente: {chave}");
+    }
+    else
+    {
+        System.Console.WriteLine($"valor não existe é seguro adicionar o elemento: {chave}");
+    }
+
+        
+    
 
 
 
 
 
-Stack<int> pila = new Stack<int>();
+
+/*Stack<int> pila = new Stack<int>();
 
         pila.Push(1);
         pila.Push(2);
@@ -26,7 +56,7 @@ Stack<int> pila = new Stack<int>();
 
         foreach (int item in pila) {
             Console.WriteLine(item);
-        }
+        }*/
 
 
 
