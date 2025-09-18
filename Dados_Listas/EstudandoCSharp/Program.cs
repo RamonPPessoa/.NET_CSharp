@@ -6,32 +6,38 @@ using System.Globalization;
 using EstudandoCSharp.Models;
 using System.IO;
 
-try
-{
-    string[] linhas = File.ReadAllLines("Arquivos/LeituraArquivos.txt");
 
-    foreach (string linha in linhas)
-    {
-        Console.WriteLine(linha);
-    }
-}
-catch (FileNotFoundException ex)
-{
-    Console.WriteLine($"Arquivo não encontrado. {ex.Message}");
-}
-catch (DirectoryNotFoundException ex)
-{
-    Console.WriteLine($"Diretório não encontrado. {ex.Message}");
-}
-catch (Exception ex)
-{
-    Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
-}
+new ExemploExcecao().Metodo1();
 
-finally
-{
-    System.Console.WriteLine("Chegou aqui !!");
-}
+
+
+
+// try
+// {
+//     string[] linhas = File.ReadAllLines("Arquivos/LeituraArquivos.txt");
+
+//     foreach (string linha in linhas)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// catch (FileNotFoundException ex)
+// {
+//     Console.WriteLine($"Arquivo não encontrado. {ex.Message}");
+// }
+// catch (DirectoryNotFoundException ex)
+// {
+//     Console.WriteLine($"Diretório não encontrado. {ex.Message}");
+// }
+// catch (Exception ex)
+// {
+//     Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
+// }
+
+// finally
+// {
+//     System.Console.WriteLine("Chegou aqui !!");
+// }
 
 
 
