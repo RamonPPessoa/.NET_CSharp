@@ -1,0 +1,15 @@
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.AssemblyInfoInputs.cache
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.AssemblyInfo.cs
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.csproj.CoreCompileInputs.cache
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.sourcelink.json
+/workspaces/.NET_CSharp/POOExemplo/bin/Debug/net10.0/POOExemplo
+/workspaces/.NET_CSharp/POOExemplo/bin/Debug/net10.0/POOExemplo.deps.json
+/workspaces/.NET_CSharp/POOExemplo/bin/Debug/net10.0/POOExemplo.runtimeconfig.json
+/workspaces/.NET_CSharp/POOExemplo/bin/Debug/net10.0/POOExemplo.dll
+/workspaces/.NET_CSharp/POOExemplo/bin/Debug/net10.0/POOExemplo.pdb
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.dll
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/refint/POOExemplo.dll
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.pdb
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/POOExemplo.genruntimeconfig.cache
+/workspaces/.NET_CSharp/POOExemplo/obj/Debug/net10.0/ref/POOExemplo.dll
