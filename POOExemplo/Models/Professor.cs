@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace POOExemplo.Models
 {
-    public class Professor : Pessoa
+    public  class Professor : Pessoa
     {
         public double Salario{get;set;}
 
