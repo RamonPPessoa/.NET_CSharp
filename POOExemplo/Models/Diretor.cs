@@ -7,6 +7,9 @@ namespace POOExemplo.Models
 {
     public class Diretor : Professor // Classe selada nao pode ser herdada
     {
-        
+          public override void Apresentar()
+        {
+            Console.WriteLine("Diretor");
+        }
     }
 }
