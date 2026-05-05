@@ -9,9 +9,9 @@ namespace POOExemplo.Models
     {
         public double Salario{get;set;}
 
-        public sealed override void Apresentar()
-        {
-            Console.WriteLine($"Meu Nome é {Nome} tenho {Idade} e meu salario é: {Salario}");
-        }
+        // public sealed override void Apresentar()
+        // {
+        //     Console.WriteLine($"Meu Nome é {Nome} tenho {Idade} e meu salario é: {Salario}");
+        // }
     }
 }

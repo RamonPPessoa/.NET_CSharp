@@ -3,10 +3,14 @@ using POOExemplo.Models;
 
 
 
-Corrente c1 = new Corrente();
 
-c1.Creditar(1000);
-c1.ExibirSaldo();
+Computador c = new Computador();
+Console.WriteLine(c.ToString());
+
+// Corrente c1 = new Corrente();
+
+// c1.Creditar(1000);
+// c1.ExibirSaldo();
 
 
 /*ContaCorrente conta1 = new ContaCorrente(1235,3000);
