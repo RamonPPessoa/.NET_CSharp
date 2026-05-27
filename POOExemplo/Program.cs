@@ -1,11 +1,12 @@
 ﻿using System.ComponentModel;
 using POOExemplo.Models;
 
+Pessoa p1 = new Pessoa("Joana");
+Aluno a1 = new Aluno(" Fernanda");
+a1.Apresentar();
 
-
-
-Computador c = new Computador();
-Console.WriteLine(c.ToString());
+// Computador c = new Computador();
+// Console.WriteLine(c.ToString());
 
 // Corrente c1 = new Corrente();
 
