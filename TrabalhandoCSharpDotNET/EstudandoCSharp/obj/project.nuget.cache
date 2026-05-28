@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EuQx0GVIXdI=",
+  "dgSpecHash": "4kueogYPUQw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramon\\Documents\\Cursos_TI\\.NET_CSharp\\TrabalhandoCSharpDotNET\\EstudandoCSharp\\EstudandoCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/.NET_CSharp/TrabalhandoCSharpDotNET/EstudandoCSharp/EstudandoCSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/9.0.14/microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.14/microsoft.netcore.app.host.linux-x64.9.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

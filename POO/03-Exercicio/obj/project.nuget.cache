@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YHF6qwoVVS1yx8SW00M+TMDxgfY3BGbXWBnVTy5lgOnJQF0X3ABEKUUUwpymD7zXlEC5GblkkdB8hUnY/j1wbw==",
+  "dgSpecHash": "mIDrxQTo+IY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramon\\Documents\\.NET_C#\\POO\\03-Exercicio\\03-Exercicio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/.NET_CSharp/POO/03-Exercicio/03-Exercicio.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

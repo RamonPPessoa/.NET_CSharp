@@ -1,9 +1,15 @@
 ﻿using System.ComponentModel;
+using POOExemplo.Interfaces;
 using POOExemplo.Models;
 
-Pessoa p1 = new Pessoa("Joana");
-Aluno a1 = new Aluno(" Fernanda");
-a1.Apresentar();
+
+
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(2,4));
+
+// Pessoa p1 = new Pessoa("Joana");
+// Aluno a1 = new Aluno(" Fernanda");
+// a1.Apresentar();
 
 // Computador c = new Computador();
 // Console.WriteLine(c.ToString());

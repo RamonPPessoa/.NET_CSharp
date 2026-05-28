@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ACik0Mygd4k+eV07WGQ6JAxRUOAi/sgJHhad2Zd6EgKgVzJPAmeHnz+EwKVDa90rxmoPCzQ2Jk8mrhq8cjvoyQ==",
+  "dgSpecHash": "zphP5oxvkFw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramon\\Documents\\.NET_C#\\POO\\04-Imc\\04-Imc.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/.NET_CSharp/POO/04-Imc/04-Imc.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

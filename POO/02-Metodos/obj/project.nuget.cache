@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cT7CFYFtnsAlqdvL/YedL+0/b0DVrZW/CovF7O7PlVZ0ppbmFTJ2TgUP2NLB7NKtWSXKpQibATUBGYl6OTquVg==",
+  "dgSpecHash": "Hrfkhjd75B4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramon\\Documents\\.NET_C#\\POO\\02-Metodos\\02-Metodos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/.NET_CSharp/POO/02-Metodos/02-Metodos.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

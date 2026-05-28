@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramon\\Documents\\.NET_C#\\API_Pizzaria\\API_Pizzaria.csproj": {}
+    "/workspaces/.NET_CSharp/API_Pizzaria/API_Pizzaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramon\\Documents\\.NET_C#\\API_Pizzaria\\API_Pizzaria.csproj": {
+    "/workspaces/.NET_CSharp/API_Pizzaria/API_Pizzaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramon\\Documents\\.NET_C#\\API_Pizzaria\\API_Pizzaria.csproj",
+        "projectUniqueName": "/workspaces/.NET_CSharp/API_Pizzaria/API_Pizzaria.csproj",
         "projectName": "API_Pizzaria",
-        "projectPath": "C:\\Users\\ramon\\Documents\\.NET_C#\\API_Pizzaria\\API_Pizzaria.csproj",
-        "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramon\\Documents\\.NET_C#\\API_Pizzaria\\obj\\",
+        "projectPath": "/workspaces/.NET_CSharp/API_Pizzaria/API_Pizzaria.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/.NET_CSharp/API_Pizzaria/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -56,6 +60,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -64,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }

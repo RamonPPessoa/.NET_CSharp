@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "betgmYPzHxg54GmTdyHop8usYCgQOpjdz0ZNpZHv2njSeJwYnE0zKiWT+RzXFGYT6ub0PGJ0isOLUc2lNEwXww==",
+  "dgSpecHash": "BI1BM9nNC2g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramon\\Documents\\.NET_C#\\Testes\\LearnMyCalculatorApp\\LearnMyCalculatorApp\\LearnMyCalculatorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/.NET_CSharp/Testes/LearnMyCalculatorApp/LearnMyCalculatorApp/LearnMyCalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
