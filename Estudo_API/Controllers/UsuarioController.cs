@@ -22,5 +22,14 @@ namespace Estudo_API.Controllers
 
 
         }
+        [HttpGet("Apresentar/{nome}")]
+        public IActionResult Apresentar(string nome)
+        {
+            var mensagem = $"Ola {nome}, seja bem vindo";
+            {
+                
+            };
+            return Ok(new{mensagem});
+        }
     }
 }
