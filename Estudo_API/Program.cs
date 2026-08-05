@@ -1,4 +1,10 @@
+using Estudo_API.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<AgendaContext>(options =>
+       options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
